@@ -181,4 +181,5 @@ INSERT INTO Employees
 --22. Increase Employee Salaries
 UPDATE Employees
 SET Salary = Salary * 1.1
+SELECT Salary FROM Employees
 
